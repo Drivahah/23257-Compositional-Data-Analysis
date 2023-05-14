@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['compositional.py', 'w02.py', '..\\..\\..\\Desktop\\Inbox\\ReturnOnInvestment.py']
+recent_files = ['..\\FinalProject\\script\\energy_per_country.py', '..\\FinalProject\\script\\functions.py', '..\\..\\..\\Anaconda3\\lib\\site-packages\\pycodamath\\plot.py', '..\\FinalProject\\script\\energy_per_country_draft.py']
 
 [main]
 version = 0.2.0
